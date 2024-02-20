@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "1.0.0",
-  "description": "",
+  "description": "/**\r  * Header\r  *  -logo\r  *  -Nav Items\r  * Body\r  *  -search\r  *  -Restaurant Container\r  *      -RestaurantCard\r  *          -img\r  *          -Name of the res\r  *          -star rating\r  *          -cuisines\r  * Footer\r  *  -copyRight\r  *  -Links\r  *  -Address\r  *  -Contact\r  */",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
